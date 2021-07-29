@@ -1,0 +1,9 @@
+.image{
+    filter: grayscale(100%);
+}
+.Bike-info p{
+    color: #e76f51;
+}
+.card-btn button{
+    background-color: #e76f51;
+}
